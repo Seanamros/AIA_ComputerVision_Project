@@ -1,5 +1,5 @@
 # AIA_ComputerVision_Project
-Computer Vision with Mobile Net
+Computer Vision with Mobile Net 
 Training Model
 1.Train yolo v3 model
 2.Train SSD MobileNet v1 model
