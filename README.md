@@ -1,16 +1,16 @@
 # AIA_ComputerVision_Project
 Computer Vision with Mobile Net
 Training Model
-   Train yolo v3 model
-   Train SSD MobileNet v1 model
+1.Train yolo v3 model
+2.Train SSD MobileNet v1 model
 
 Android APP
-   Tensorflow demo code based on Android Studio
-   Yolo v1/v2 demo code based on Android Studio
-   Object detection of pepper based on Android Studio
+1.Tensorflow demo code based on Android Studio
+2.Yolo v1/v2 demo code based on Android Studio
+3.Object detection of pepper based on Android Studio
 
 Tensorflow Packages
-   Tensorflow優化模型套件
+1.Tensorflow優化模型套件
 
 Model Conversion
-   Convert model from *.h5 to *.pb
+1.Convert model from *.h5 to *.pb
